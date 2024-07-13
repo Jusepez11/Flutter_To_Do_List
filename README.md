@@ -1,4 +1,4 @@
-# to_do_list_flutter
+# Flutter To Do List
 
 A To do list in Flutter
 
